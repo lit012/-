@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c85d6cf7b4a3547b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2fa6421c6c8e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f937facde4d8a35f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git-code/git基础/01-提交本地文件.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f20e8ceec72a477e",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbbf64ef43ea7d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d3d7a75299a77e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6be0ab53310c2f87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74ea42ed2bced987",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5ea0e8ebfc5a114",
+    "type": "split",
+    "children": [
+      {
+        "id": "96ade3b33b896b0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cebd3fdb167c15e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git-code/git基础/01-提交本地文件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a7a52737ec9b483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git-code/git基础/01-提交本地文件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "532c3768aa4834ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6034790d1522f0e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git-code/git基础/01-提交本地文件.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f937facde4d8a35f",
+  "lastOpenFiles": [
+    "other/markdown语法/数学公式.md",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/03/06.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/03/image.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/03/05.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/03/04.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/03/03.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/03/02.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/03/01.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/03",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/第3章-一元函数积分学.md",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/02/41.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/02/image.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/02/40.png",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/随笔.md",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/第1章-函数-极限-连续.md",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/第2章-一元函数微分学.md",
+    "Post-ex/Post-ex-ob/English/Basics/单词",
+    "Post-ex/Post-ex-ob/English/Basics",
+    "Post-ex/Post-ex-ob/English",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/02第二章-一元函数微分学.md",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/01第一章-函数-极限-连续.md",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/第二章-一元函数微分学.md",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/02",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/01/02",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/随笔心得.md",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img/01",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/img",
+    "Post-ex/Post-ex-ob/Math/Basics/高数/第一章-函数-极限-连续.md",
+    "Post-ex/Post-ex/欢迎.md",
+    "Post-ex/Post-ex",
+    "未命名.md",
+    "block-chain/课程笔记/Linux_Ubuntu以太坊编程/1.以太坊编程基础.md",
+    "Post-ex",
+    "python/数据采集/爬虫/1.静态网页爬取.md",
+    "other/编程bug/软件安装和配置/软件下载安装.md",
+    "other/课程笔记/数据采集技术/07.自动采集与射频识别.md",
+    "other/课程笔记/人工智能/3.状态空间搜索.md",
+    "other/课程笔记/人工智能/4.不确定推理.md",
+    "other/课程笔记/人工智能/2.确定性推理.md",
+    "other/课程笔记/人工智能/1.知识表示方法.md",
+    "python/机器学习/神经网络/3.卷积神经网络.md",
+    "python/机器学习/神经网络/4.循环神经网络.md",
+    "python/机器学习/分类/1.1普通分类方法.md",
+    "other/课程笔记/人工智能/4.不确定推理方法.md",
+    "other/编程bug/软件安装和配置/obsidian支持的代码语法.md",
+    "未命名.canvas"
+  ]
+}

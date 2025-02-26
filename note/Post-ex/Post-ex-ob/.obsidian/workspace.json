@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "ab4c9e71fe4c892d",
+    "type": "split",
+    "children": [
+      {
+        "id": "69132031912df366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15fb0b3c2992c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Basics/高数/随笔.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bde1bb3bfa31cfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c7a63890aff13a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "927c722fb9301fa8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "204ec145c31d35fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87c5a39bdf93c099",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb77b1a4fa6a0cee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b537b45dc5a4f986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08ec2b05da24592f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Basics/高数/随笔.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a1b32c4b43fad58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Basics/高数/随笔.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46d07cd724dc5c2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94399c35e12f0881",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Basics/高数/随笔.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c15fb0b3c2992c9f",
+  "lastOpenFiles": [
+    "Math/Basics/高数/第3章-一元函数积分学.md",
+    "Math/Basics/高数/随笔.md",
+    "Math/Basics/高数/img/03/06.png",
+    "Math/Basics/高数/img/03/image.png",
+    "Math/Basics/高数/第2章-一元函数微分学.md",
+    "Math/Basics/高数/第1章-函数-极限-连续.md",
+    "Math/Basics/高数/img/03/05.png",
+    "Math/Basics/高数/img/03/04.png",
+    "Math/Basics/高数/img/03/03.png",
+    "Math/Basics/高数/img/03/02.png",
+    "Math/Basics/高数/img/03/01.png",
+    "Math/Basics/高数/img/03",
+    "Math/Basics/高数/img/02/41.png",
+    "Math/Basics/高数/img/02/image.png",
+    "Math/Basics/高数/img/02/40.png",
+    "English/Basics/单词",
+    "English/Basics",
+    "English",
+    "Math/Basics/高数/02第二章-一元函数微分学.md",
+    "Math/Basics/高数/第一章-函数-极限-连续.md",
+    "Math/Basics/高数/01第一章-函数-极限-连续.md",
+    "Math/Basics/高数/第二章-一元函数微分学.md",
+    "Math/Basics/高数/img/02",
+    "Math/Basics/高数/img/01/02",
+    "Math/Basics/高数/随笔心得.md",
+    "Math/Basics/高数/img/01",
+    "Math/Basics/高数/img",
+    "欢迎.md"
+  ]
+}
